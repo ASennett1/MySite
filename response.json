@@ -1,0 +1,1700 @@
+{
+  "teamName": "Hit the showers!",
+  "teamKey": "461.l.853029.t.5",
+  "matchups": [
+    {
+      "week": "1",
+      "weekStart": "2025-09-04",
+      "weekEnd": "2025-09-08",
+      "status": "midevent",
+      "yourTeam": {
+        "teamId": "5",
+        "name": "Hit the showers!",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.5"
+      },
+      "opponent": {
+        "teamId": "1",
+        "name": "Dey Turk Er Doubs",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.1",
+        "roster": [
+          {
+            "name": "Justin Fields",
+            "position": "QB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Marvin Harrison Jr.",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Xavier Worthy",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Saquon Barkley",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "James Cook",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Sam LaPorta",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Tetairoa McMillan",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "D'Andre Swift",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jaylen Warren",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jayden Higgins",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Tyler Allgeier",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Will Shipley",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Marvin Mims Jr.",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Chris Boswell",
+            "position": "K",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Washington",
+            "position": "DEF",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "week": 2,
+      "weekStart": "2025-09-09",
+      "weekEnd": "2025-09-15",
+      "status": "preevent",
+      "yourTeam": {
+        "teamId": "5",
+        "name": "Hit the showers!",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.5"
+      },
+      "opponent": {
+        "teamId": "7",
+        "name": "Hall Pass",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.7",
+        "roster": [
+          {
+            "name": "Bo Nix",
+            "position": "QB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Ja'Marr Chase",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "A.J. Brown",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Kyren Williams",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "TreVeyon Henderson",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "David Njoku",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Breece Hall",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Deebo Samuel",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Stefon Diggs",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Khalil Shakir",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Tyjae Spears",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Dalton Kincaid",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Keenan Allen",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Chase McLaughlin",
+            "position": "K",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Buffalo",
+            "position": "DEF",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "week": 3,
+      "weekStart": "2025-09-16",
+      "weekEnd": "2025-09-22",
+      "status": "preevent",
+      "yourTeam": {
+        "teamId": "5",
+        "name": "Hit the showers!",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.5"
+      },
+      "opponent": {
+        "teamId": "3",
+        "name": "Gunski Gang",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.3",
+        "roster": [
+          {
+            "name": "Jalen Hurts",
+            "position": "QB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Mike Evans",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jerry Jeudy",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Ashton Jeanty",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Isiah Pacheco",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Dallas Goedert",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Nico Collins",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Calvin Ridley",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Kyle Pitts Sr.",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jordan Mason",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Rachaad White",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Cam Ward",
+            "position": "QB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Rico Dowdle",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jake Elliott",
+            "position": "K",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Denver",
+            "position": "DEF",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "week": 4,
+      "weekStart": "2025-09-23",
+      "weekEnd": "2025-09-29",
+      "status": "preevent",
+      "yourTeam": {
+        "teamId": "5",
+        "name": "Hit the showers!",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.5"
+      },
+      "opponent": {
+        "teamId": "9",
+        "name": "Only injuries in the building",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.9",
+        "roster": [
+          {
+            "name": "Joe Burrow",
+            "position": "QB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "George Pickens",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Chris Olave",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Bijan Robinson",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "De'Von Achane",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Brock Bowers",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Travis Etienne Jr.",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Rashee Rice",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Drake Maye",
+            "position": "QB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Josh Downs",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Ollie Gordon II",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Dylan Sampson",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Wil Lutz",
+            "position": "K",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Arizona",
+            "position": "DEF",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Joe Mixon",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "week": 5,
+      "weekStart": "2025-09-30",
+      "weekEnd": "2025-10-06",
+      "status": "preevent",
+      "yourTeam": {
+        "teamId": "5",
+        "name": "Hit the showers!",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.5"
+      },
+      "opponent": {
+        "teamId": "12",
+        "name": "Tua girls one Kupp",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.12",
+        "roster": [
+          {
+            "name": "Jayden Daniels",
+            "position": "QB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Amon-Ra St. Brown",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Zay Flowers",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Bucky Irving",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Omarion Hampton",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Tucker Kraft",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "David Montgomery",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jayden Reed",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Rhamondre Stevenson",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jordan Addison",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jordan Love",
+            "position": "QB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jake Ferguson",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Zach Ertz",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Evan McPherson",
+            "position": "K",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Kansas City",
+            "position": "DEF",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "week": 6,
+      "weekStart": "2025-10-07",
+      "weekEnd": "2025-10-13",
+      "status": "preevent",
+      "yourTeam": {
+        "teamId": "5",
+        "name": "Hit the showers!",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.5"
+      },
+      "opponent": {
+        "teamId": "8",
+        "name": "SAC's Slam-Dunk Team",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.8",
+        "roster": [
+          {
+            "name": "Brock Purdy",
+            "position": "QB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Ladd McConkey",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jaxon Smith-Njigba",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jahmyr Gibbs",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Tony Pollard",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Colston Loveland",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Terry McLaurin",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Ricky Pearsall",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jakobi Meyers",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jerome Ford",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jared Goff",
+            "position": "QB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jaydon Blue",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Keaton Mitchell",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Harrison Butker",
+            "position": "K",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "New York",
+            "position": "DEF",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "week": 7,
+      "weekStart": "2025-10-14",
+      "weekEnd": "2025-10-20",
+      "status": "preevent",
+      "yourTeam": {
+        "teamId": "5",
+        "name": "Hit the showers!",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.5"
+      },
+      "opponent": {
+        "teamId": "10",
+        "name": "Joshin' Ya",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.10",
+        "roster": [
+          {
+            "name": "Josh Allen",
+            "position": "QB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "DK Metcalf",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jameson Williams",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Josh Jacobs",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Austin Ekeler",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "George Kittle",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Courtland Sutton",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "J.K. Dobbins",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Zach Charbonnet",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Keon Coleman",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Braelon Allen",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Christian Kirk",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Darnell Mooney",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Brandon McManus",
+            "position": "K",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Baltimore",
+            "position": "DEF",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Brandon Aiyuk",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "week": 8,
+      "weekStart": "2025-10-21",
+      "weekEnd": "2025-10-27",
+      "status": "preevent",
+      "yourTeam": {
+        "teamId": "5",
+        "name": "Hit the showers!",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.5"
+      },
+      "opponent": {
+        "teamId": "4",
+        "name": "Golden Shower",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.4",
+        "roster": [
+          {
+            "name": "Lamar Jackson",
+            "position": "QB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Matthew Golden",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Tyreek Hill",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Christian McCaffrey",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Chase Brown",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Mark Andrews",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "DJ Moore",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Kaleb Johnson",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Brian Robinson Jr.",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Rashid Shaheed",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Ray Davis",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Tyler Warren",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Hollywood Brown",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jake Bates",
+            "position": "K",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Pittsburgh",
+            "position": "DEF",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "week": 9,
+      "weekStart": "2025-10-28",
+      "weekEnd": "2025-11-03",
+      "status": "preevent",
+      "yourTeam": {
+        "teamId": "5",
+        "name": "Hit the showers!",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.5"
+      },
+      "opponent": {
+        "teamId": "11",
+        "name": "Air Raid Nick",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.11",
+        "roster": [
+          {
+            "name": "Baker Mayfield",
+            "position": "QB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "CeeDee Lamb",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Malik Nabers",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "RJ Harvey",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Tyrone Tracy Jr.",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Trey McBride",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Garrett Wilson",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Michael Pittman Jr.",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Trey Benson",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Bhayshul Tuten",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "C.J. Stroud",
+            "position": "QB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Romeo Doubs",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Nick Chubb",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Ka'imi Fairbairn",
+            "position": "K",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Philadelphia",
+            "position": "DEF",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "week": 10,
+      "weekStart": "2025-11-04",
+      "weekEnd": "2025-11-10",
+      "status": "preevent",
+      "yourTeam": {
+        "teamId": "5",
+        "name": "Hit the showers!",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.5"
+      },
+      "opponent": {
+        "teamId": "6",
+        "name": "Go Sports",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.6",
+        "roster": [
+          {
+            "name": "Patrick Mahomes",
+            "position": "QB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Brian Thomas Jr.",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Davante Adams",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jonathan Taylor",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Alvin Kamara",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "T.J. Hockenson",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "DeVonta Smith",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Tank Bigsby",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Cooper Kupp",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Cam Skattebo",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Rashod Bateman",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Justin Herbert",
+            "position": "QB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Chig Okonkwo",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Cameron Dicker",
+            "position": "K",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Detroit",
+            "position": "DEF",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "week": 11,
+      "weekStart": "2025-11-11",
+      "weekEnd": "2025-11-17",
+      "status": "preevent",
+      "yourTeam": {
+        "teamId": "5",
+        "name": "Hit the showers!",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.5"
+      },
+      "opponent": {
+        "teamId": "2",
+        "name": "Sellffman (Taylor’s Version)",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.2",
+        "roster": [
+          {
+            "name": "Kyler Murray",
+            "position": "QB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Puka Nacua",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Tee Higgins",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Derrick Henry",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Kenneth Walker III",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Travis Kelce",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Travis Hunter",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Evan Engram",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Caleb Williams",
+            "position": "QB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jacory Croskey-Merritt",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jauan Jennings",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Quinshon Judkins",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Joshua Palmer",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Cam Little",
+            "position": "K",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "San Francisco",
+            "position": "DEF",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "week": 12,
+      "weekStart": "2025-11-18",
+      "weekEnd": "2025-11-24",
+      "status": "preevent",
+      "yourTeam": {
+        "teamId": "5",
+        "name": "Hit the showers!",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.5"
+      },
+      "opponent": {
+        "teamId": "1",
+        "name": "Dey Turk Er Doubs",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.1",
+        "roster": [
+          {
+            "name": "Justin Fields",
+            "position": "QB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Marvin Harrison Jr.",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Xavier Worthy",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Saquon Barkley",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "James Cook",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Sam LaPorta",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Tetairoa McMillan",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "D'Andre Swift",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jaylen Warren",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jayden Higgins",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Tyler Allgeier",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Will Shipley",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Marvin Mims Jr.",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Chris Boswell",
+            "position": "K",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Washington",
+            "position": "DEF",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "week": 13,
+      "weekStart": "2025-11-25",
+      "weekEnd": "2025-12-01",
+      "status": "preevent",
+      "yourTeam": {
+        "teamId": "5",
+        "name": "Hit the showers!",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.5"
+      },
+      "opponent": {
+        "teamId": "7",
+        "name": "Hall Pass",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.7",
+        "roster": [
+          {
+            "name": "Bo Nix",
+            "position": "QB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Ja'Marr Chase",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "A.J. Brown",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Kyren Williams",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "TreVeyon Henderson",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "David Njoku",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Breece Hall",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Deebo Samuel",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Stefon Diggs",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Khalil Shakir",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Tyjae Spears",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Dalton Kincaid",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Keenan Allen",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Chase McLaughlin",
+            "position": "K",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Buffalo",
+            "position": "DEF",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "week": 14,
+      "weekStart": "2025-12-02",
+      "weekEnd": "2025-12-08",
+      "status": "preevent",
+      "yourTeam": {
+        "teamId": "5",
+        "name": "Hit the showers!",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.5"
+      },
+      "opponent": {
+        "teamId": "3",
+        "name": "Gunski Gang",
+        "points": "0.00",
+        "projectedPoints": "0.00",
+        "winProbability": 0,
+        "teamKey": "461.l.853029.t.3",
+        "roster": [
+          {
+            "name": "Jalen Hurts",
+            "position": "QB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Nico Collins",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Mike Evans",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Ashton Jeanty",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jordan Mason",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Kyle Pitts Sr.",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jerry Jeudy",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Isiah Pacheco",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Calvin Ridley",
+            "position": "WR",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Cam Ward",
+            "position": "QB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Dallas Goedert",
+            "position": "TE",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Rachaad White",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Rico Dowdle",
+            "position": "RB",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Jake Elliott",
+            "position": "K",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          },
+          {
+            "name": "Denver",
+            "position": "DEF",
+            "points": "0.00",
+            "projectedPoints": "0.00"
+          }
+        ]
+      }
+    }
+  ],
+  "roster": [
+    {
+      "name": "Dak Prescott",
+      "position": "QB",
+      "points": "0.00",
+      "projectedPoints": "0.00"
+    },
+    {
+      "name": "Justin Jefferson",
+      "position": "WR",
+      "points": "0.00",
+      "projectedPoints": "0.00"
+    },
+    {
+      "name": "Drake London",
+      "position": "WR",
+      "points": "0.00",
+      "projectedPoints": "0.00"
+    },
+    {
+      "name": "Chuba Hubbard",
+      "position": "RB",
+      "points": "0.00",
+      "projectedPoints": "0.00"
+    },
+    {
+      "name": "James Conner",
+      "position": "RB",
+      "points": "0.00",
+      "projectedPoints": "0.00"
+    },
+    {
+      "name": "Hunter Henry",
+      "position": "TE",
+      "points": "0.00",
+      "projectedPoints": "0.00"
+    },
+    {
+      "name": "Emeka Egbuka",
+      "position": "WR",
+      "points": "0.00",
+      "projectedPoints": "0.00"
+    },
+    {
+      "name": "Jaylen Waddle",
+      "position": "WR",
+      "points": "0.00",
+      "projectedPoints": "0.00"
+    },
+    {
+      "name": "Aaron Jones Sr.",
+      "position": "RB",
+      "points": "0.00",
+      "projectedPoints": "0.00"
+    },
+    {
+      "name": "Rome Odunze",
+      "position": "WR",
+      "points": "0.00",
+      "projectedPoints": "0.00"
+    },
+    {
+      "name": "Javonte Williams",
+      "position": "RB",
+      "points": "0.00",
+      "projectedPoints": "0.00"
+    },
+    {
+      "name": "Chris Godwin Jr.",
+      "position": "WR",
+      "points": "0.00",
+      "projectedPoints": "0.00"
+    },
+    {
+      "name": "Brandon Aubrey",
+      "position": "K",
+      "points": "0.00",
+      "projectedPoints": "0.00"
+    },
+    {
+      "name": "Houston",
+      "position": "DEF",
+      "points": "0.00",
+      "projectedPoints": "0.00"
+    },
+    {
+      "name": "Green Bay",
+      "position": "DEF",
+      "points": "0.00",
+      "projectedPoints": "0.00"
+    }
+  ]
+}

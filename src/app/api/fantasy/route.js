@@ -1,4 +1,5 @@
 import { getAccessToken } from "@/utils/yahooAuth";
+import fs from "fs";
 
 export async function GET(request) {
   try {
@@ -125,7 +126,7 @@ export async function GET(request) {
         throw new Error(`Failed to fetch league teams: ${teamsResponse.status} ${teamsResponse.statusText}`);
       }
       const teamsData = await teamsResponse.json();
-      console.log("League Teams Data:", JSON.stringify(teamsData.fantasy_content, null, 2));
+      //console.log("League Teams Data:", JSON.stringify(teamsData.fantasy_content, null, 2));
       const teams = teamsData.fantasy_content.league?.[1]?.teams;
       if (!teams) {
         throw new Error("No teams found in league 853029");
@@ -169,7 +170,7 @@ export async function GET(request) {
       throw new Error(`Failed to fetch matchups: ${matchupsResponse.status} ${matchupsResponse.statusText}`);
     }
     const matchupsData = await matchupsResponse.json();
-    console.log("Matchups Data:", JSON.stringify(matchupsData.fantasy_content, null, 2));
+    //console.log("Matchups Data:", JSON.stringify(matchupsData.fantasy_content, null, 2));
 
     // Step 5: Fetch your team's roster with player stats
     const rosterUrl = week
@@ -185,7 +186,7 @@ export async function GET(request) {
       throw new Error(`Failed to fetch roster: ${rosterResponse.status} ${rosterResponse.statusText}`);
     }
     const rosterData = await rosterResponse.json();
-    console.log("Roster Data:", JSON.stringify(rosterData.fantasy_content, null, 2));
+    //console.log("Roster Data:", JSON.stringify(rosterData.fantasy_content, null, 2));
 
     // Step 6: Process matchups and fetch opponent rosters
     const matchups = matchupsData.fantasy_content.team?.[1]?.matchups;
@@ -229,7 +230,7 @@ export async function GET(request) {
           points,
           projectedPoints,
           winProbability,
-          teamKey: leagueTeamKeys[teamId]?.teamKey || null,
+          teamKey: `461.l.853029.t.${teamId}`,
         };
 
         if (teamId === "5") {
@@ -329,9 +330,13 @@ export async function GET(request) {
       matchups: simplifiedMatchups,
       roster: simplifiedRoster,
     };
-    if (!hasProjectedData) {
-      response.warning = "Projected points and win probabilities are unavailable, likely because the season has not started.";
-    }
+
+    fs.writeFileSync("response.json", JSON.stringify(response, null, 2));
+    console.log("Saved response.json");
+
+    // if (!hasProjectedData) {
+    //   response.warning = "Projected points and win probabilities are unavailable, likely because the season has not started.";
+    // }
 
     return new Response(JSON.stringify(response), {
       status: 200,
